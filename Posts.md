@@ -33,3 +33,7 @@
 > [![](https://img.shields.io/badge/Count%20Number%20of%20Nice%20Subarrays-blue)](https://leetcode.com/problems/count-number-of-nice-subarrays/)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/832587/java-solution/719540)
 > [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)
+
+> [![](https://img.shields.io/badge/Reverse%20Linked%20List%20II-blue)](https://leetcode.com/problems/reverse-linked-list-ii/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/reverse-linked-list-ii/discuss/882935/Java-Solution-With-Detaied-Explaination)
+> [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)

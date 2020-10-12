@@ -1,7 +1,8 @@
 > ### LeetCode Posted Solution
 
-> [![](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/problemset/all/?difficulty=Hard)
-> [![](https://img.shields.io/badge/LeetCode-Hard-red)](https://leetcode.com/naveenkr/)
+> [![](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/naveenkr/)
+
+> [![](https://img.shields.io/badge/LeetCode-Hard-red)](https://leetcode.com/problemset/all/?difficulty=Hard)
 > [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)
 > [![](https://img.shields.io/badge/LeetCode-Easy-green)](https://leetcode.com/problemset/all/?difficulty=Easy)
 

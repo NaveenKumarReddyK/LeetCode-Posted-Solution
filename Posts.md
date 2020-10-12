@@ -26,6 +26,10 @@
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/882950/java-solution-iterative)
 > [![](https://img.shields.io/badge/LeetCode-Hard-red)](https://leetcode.com/problemset/all/?difficulty=Hard)
 
-> [![](https://img.shields.io/badge/Question)](https://leetcode.com/discuss/interview-question/848711/roblox-new-grad-oa/727722)
+> [![](https://img.shields.io/badge/General%20Discussion-blue)](https://leetcode.com/discuss/interview-question/848711/roblox-new-grad-oa/727722)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/848711/Roblox-New-Grad-OA/698838)
 > [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)
+
+> [![](https://img.shields.io/badge/Count%20Number%20of%20Nice%20Subarrays-blue)](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/832587/java-solution/719540)
+> [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)

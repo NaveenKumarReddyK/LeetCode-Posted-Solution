@@ -26,4 +26,6 @@
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/882950/java-solution-iterative)
 > [![](https://img.shields.io/badge/LeetCode-Hard-red)](https://leetcode.com/problemset/all/?difficulty=Hard)
 
-
+> [![](https://img.shields.io/badge/Question)](https://leetcode.com/discuss/interview-question/848711/roblox-new-grad-oa/727722)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/848711/Roblox-New-Grad-OA/698838)
+> [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)

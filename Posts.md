@@ -41,3 +41,7 @@
 > [![](https://img.shields.io/badge/Robot%20Bounded%20In%20Circle-blue)](https://leetcode.com/problems/robot-bounded-in-circle/)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/robot-bounded-in-circle/discuss/850890/java-solution/699969)
 > [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)
+
+> [![](https://img.shields.io/badge/Bulls%20and%20Cows-blue)](https://leetcode.com/problems/bulls-and-cows/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/bulls-and-cows/discuss/839467/4-pass-java-solution/690844)
+> [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)

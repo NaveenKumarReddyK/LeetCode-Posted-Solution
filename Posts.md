@@ -53,3 +53,7 @@
 > [![](https://img.shields.io/badge/Longest%20Common%20Prefix-blue)](https://leetcode.com/problems/longest-common-prefix/)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/longest-common-prefix/discuss/817599/java-solution/688556)
 > [![](https://img.shields.io/badge/LeetCode-Easy-green)](https://leetcode.com/problemset/all/?difficulty=Easy)
+
+> [![](https://img.shields.io/badge/Largest%20Number-blue)](https://leetcode.com/problems/largest-number/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/largest-number/discuss/863380/Java-Solution)
+> [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)

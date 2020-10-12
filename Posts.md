@@ -45,3 +45,7 @@
 > [![](https://img.shields.io/badge/Bulls%20and%20Cows-blue)](https://leetcode.com/problems/bulls-and-cows/)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/bulls-and-cows/discuss/839467/4-pass-java-solution/690844)
 > [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)
+
+> [![](https://img.shields.io/badge/Longest%20Common%20Prefix-blue)](https://leetcode.com/problems/longest-common-prefix/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/longest-common-prefix/discuss/817599/java-solution/688556)
+> [![](https://img.shields.io/badge/LeetCode-Easy-green)](https://leetcode.com/problemset/all/?difficulty=Easy)

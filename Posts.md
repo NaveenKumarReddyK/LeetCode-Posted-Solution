@@ -57,3 +57,7 @@
 > [![](https://img.shields.io/badge/Largest%20Number-blue)](https://leetcode.com/problems/largest-number/)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/largest-number/discuss/863380/Java-Solution)
 > [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)
+
+> [![](https://img.shields.io/badge/Sort%20List-blue)](https://leetcode.com/problems/sort-list/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/sort-list/discuss/892528/Java-Merge-Sort)
+> [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)

@@ -69,3 +69,7 @@
 > [![](https://img.shields.io/badge/General%20Discussion-blue)](https://leetcode.com/discuss/interview-question/306859/Google-or-Phone-screen-or-Split-strings-to-form-a-palindrome)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/playground/ECEieEwR)
 > [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)
+
+> [![](https://img.shields.io/badge/Longest%20Consecutive%20Sequence-blue)](https://leetcode.com/problems/longest-consecutive-sequence/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/longest-consecutive-sequence/discuss/893621/Java-Two-Solutions)
+> [![](https://img.shields.io/badge/LeetCode-Hard-red)](https://leetcode.com/problemset/all/?difficulty=Hard)

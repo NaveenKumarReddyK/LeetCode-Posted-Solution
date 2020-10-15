@@ -79,6 +79,6 @@
 > [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)
 
 > [![](https://img.shields.io/badge/General%20Discussion-blue)](https://leetcode.com/discuss/interview-question/894751/Google-or-Online-Assesment-or-Time-to-move-balls-in-boxes)
-> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/894751/Google-or-Online-Assesment-or-Time-to-move-balls-in-boxes/732978)
-> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/894751/Google-or-Online-Assesment-or-Time-to-move-balls-in-boxes/732971)
+> [![](https://img.shields.io/badge/Solution%201-brightgreen)](https://leetcode.com/discuss/interview-question/894751/Google-or-Online-Assesment-or-Time-to-move-balls-in-boxes/732978)
+> [![](https://img.shields.io/badge/Solution%202-brightgreen)](https://leetcode.com/discuss/interview-question/894751/Google-or-Online-Assesment-or-Time-to-move-balls-in-boxes/732971)
 > [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)

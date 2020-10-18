@@ -82,3 +82,7 @@
 > [![](https://img.shields.io/badge/Solution%201-brightgreen)](https://leetcode.com/discuss/interview-question/894751/Google-or-Online-Assesment-or-Time-to-move-balls-in-boxes/732978)
 > [![](https://img.shields.io/badge/Solution%202-brightgreen)](https://leetcode.com/discuss/interview-question/894751/Google-or-Online-Assesment-or-Time-to-move-balls-in-boxes/732971)
 > [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)
+
+> [![](https://img.shields.io/badge/General%20Discussion-blue)](https://leetcode.com/discuss/interview-question/896563/amazon-oa-2020-unique-device-names/735471)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/896563/Amazon-or-OA-2020-or-Unique-Device-Names/734732)
+> [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)

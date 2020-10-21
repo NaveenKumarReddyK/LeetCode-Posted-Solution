@@ -94,3 +94,7 @@
 > [![](https://img.shields.io/badge/General%20Discussion-blue)](https://leetcode.com/discuss/interview-question/903105/de-shaw-coding-question/739350)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/903105/DE-Shaw-Coding-Question/739298)
 > [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)
+
+> [![](https://img.shields.io/badge/Asteroid%20Collision-blue)](https://leetcode.com/problems/asteroid-collision/)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/problems/asteroid-collision/discuss/904054/Java-Solution-using-Stack)
+> [![](https://img.shields.io/badge/LeetCode-Medium-important)](https://leetcode.com/problemset/all/?difficulty=Medium)

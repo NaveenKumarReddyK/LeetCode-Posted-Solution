@@ -90,3 +90,7 @@
 > [![](https://img.shields.io/badge/General%20Discussion-blue)](https://leetcode.com/discuss/interview-question/900939/sap-2021-full-time-usa/738447)
 > [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/900939/SAP-2021-Full-Time-USA/738061)
 > [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)
+
+> [![](https://img.shields.io/badge/General%20Discussion-blue)](https://leetcode.com/discuss/interview-question/903105/de-shaw-coding-question/739350)
+> [![](https://img.shields.io/badge/Solution-brightgreen)](https://leetcode.com/discuss/interview-question/903105/DE-Shaw-Coding-Question/739298)
+> [![](https://img.shields.io/badge/LeetCode-Discuss-9cf)](https://leetcode.com/discuss/)
